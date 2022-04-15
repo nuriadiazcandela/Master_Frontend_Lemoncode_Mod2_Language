@@ -1,4 +1,4 @@
-# Master_front_mod.2_Language
+# Master Frontend Módulo 2 Language :lemon:
 
 ## Ejercicio 1: Array operations
 #### - Head
